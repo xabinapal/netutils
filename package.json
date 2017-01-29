@@ -1,0 +1,19 @@
+{
+  "name": "netutils",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://xabinapal@github.com/xabinapal/netutils.git"
+  },
+  "author": "Xabier Napal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xabinapal/netutils/issues"
+  },
+  "homepage": "https://github.com/xabinapal/netutils#readme"
+}
